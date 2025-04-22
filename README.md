@@ -1,8 +1,7 @@
-- Hi, my name is Kate!
-- I'm interested in a career in cybersecurity.
-- I'm a first-year Computer Science student minoring in Criminal Justice & Criminology.
-- I'm always on the lookout for intership opportunities!
-  - You can reach me at mhp.kate@gmail.com
+- 👋 Hi, my name is Kate!
+- 🕵️‍♀️ I'm interested in a career in cybersecurity.
+- 📚 I'm a first-year Computer Science student minoring in Criminal Justice & Criminology.
+- 🌺 I'm always on the lookout for intership opportunities!
 
 
 <!---
